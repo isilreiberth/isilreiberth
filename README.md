@@ -1,20 +1,52 @@
-### Hi there 👋
+### Hi, I'm Isilreiberth 👋
 
+- 🔭 I’m currently working on S-tech
+- 🌱 I’m currently learning Full Stack Web Developer
+- 👯 I’m looking to collaborate on frontend and backend
+- 🤔 I’m looking for help with Express.js and Next.js
+- 💬 Ask me about Hardware and Software
+- 📫 How to reach me: isilreiberth@gmail.com
+- ⚡ Fun fact: I am fans Fc Barcelona
 
-import SoftwareDeveloper from 'thompsonemerson';
+---
+
+```js
+import SoftwareDeveloper from 'perezisilreiberth';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
+  name     = 'Isilreiberth Pérez';
   title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  company  = 'S-tech Digital | Remote';
+  location = 'Argentina, Bernal';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['JavaScript', 'TypeScript', 'Python'];
+  frontend = ['HTML5', 'CSS3', 'SASS'];
+  frameworks = ['Angular', 'Bootstrap', 'Node'];
+  library = ['React', 'jQuery', 'Moment'];
+  databases  = ['MySQL', 'MongoDB'];
+  
 }
+```
+---
+
+<a href="https://github.com/isilreiberth">
+  <img src="https://github-readme-stats.vercel.app/api?username=isilreiberth&show_icons=true&hide_border=true" />
+</a>
+
+---
+
+<a href="https://github.com/isilreiberth">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isilreiberth&layout=compact" />
+</a>
+
+
+<!--
+![Isilreiberth github stats](https://github-readme-stats.vercel.app/api?username=isilreiberth&show_icons=true&hide_border=true)
+
+-->
+
 
 <!--
 **isilreiberth/isilreiberth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
