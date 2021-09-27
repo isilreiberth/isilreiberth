@@ -1,9 +1,10 @@
 ### Hi, I'm Isilreiberth 👋
 
 - 👔 I’m currently working on S-tech
-- 📚 I’m currently learning Full Stack Web Developer
+- 📚 I’m currently learning Full Stack Web Developer and automation
 - 👨‍💻 I’m looking to collaborate on frontend and backend
 - 🤔 I’m looking for help with Express.js and Next.js
+- 🤔 I’m looking for help with Selenium, Postman and Cypress
 - 🕵️‍♂️ I’m interested in new technologies, Android, Arduino, Blockchain
 - 💬 Ask me about Hardware and Software
 - 📫 How to reach me: isilreiberth@gmail.com
