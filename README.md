@@ -17,9 +17,9 @@ import SoftwareDeveloper from 'perezisilreiberth';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Isilreiberth Pérez';
-  title    = 'Software Engineer';
+  title    = 'Software Developer';
   company  = 'S-tech Digital | Remote';
-  location = 'Argentina, Bernal';
+  location = 'Argentina';
 }
 
 class Skills extends SoftwareDeveloper {
