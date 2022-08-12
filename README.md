@@ -1,10 +1,10 @@
 ### Hi, I'm Isilreiberth 👋
 
-- 👔 I’m currently working on S-tech
+- 👔 I’m currently working on Makers Solutions S.A.S
 - 📚 I’m currently learning Full Stack Web Developer and Automation
 - 👨‍💻 I’m looking to collaborate on frontend and backend
 - 🤔 I’m looking for help with Express.js and Next.js
-- 🤔 I’m looking for help with Selenium, Postman and Cypress
+- 🤔 I’m looking for help with Selenium, Karate DSL, Serenity and Cypress
 - 🕵️‍♂️ I’m interested in new technologies, Android, Arduino, Blockchain
 - 💬 Ask me about Hardware and Software
 - 📫 How to reach me: isilreiberth@gmail.com
@@ -18,7 +18,7 @@ import SoftwareDeveloper from 'perezisilreiberth';
 class Bio extends SoftwareDeveloper {
   name     = 'Isilreiberth Pérez';
   title    = 'Software Developer';
-  company  = 'S-tech Digital | Remote';
+  company  = 'Makers Solutions | Remote';
   location = 'Argentina';
 }
 
@@ -27,7 +27,8 @@ class Skills extends SoftwareDeveloper {
   frontend = ['HTML5', 'CSS3', 'SASS'];
   frameworks = ['Angular', 'Bootstrap', 'Node'];
   library = ['React', 'jQuery', 'Moment'];
-  databases  = ['MySQL', 'MongoDB'];
+  databases  = ['SQL Server', 'MongoDB'];
+  tools = ['jMeter', 'Postman', 'BlazeMeter', 'Azure Data Studio', 'Azure DevOps'];
   
 }
 ```
