@@ -1,10 +1,10 @@
 ### Hi, I'm Isilreiberth 👋
 
 - 👔 I’m currently working on Makers Solutions S.A.S
-- 📚 I’m currently learning Full Stack Web Developer and Automation
+- 📚 I’m currently learning Automation with Selenium WedDriver and Cypress
 - 👨‍💻 I’m looking to collaborate on frontend and backend
-- 🤔 I’m looking for help with Express.js and Next.js
-- 🤔 I’m looking for help with Selenium, Karate DSL, Serenity and Cypress
+- 🤔 I’m looking for help with Playwright and K6
+- 🤔 I’m looking for help with Karate DSL, Serenity
 - 🕵️‍♂️ I’m interested in new technologies, Android, Arduino, Blockchain
 - 💬 Ask me about Hardware and Software
 - 📫 How to reach me: isilreiberth@gmail.com
